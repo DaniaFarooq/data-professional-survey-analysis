@@ -78,20 +78,31 @@ A comprehensive Power BI dashboard analyzing survey responses from 630+ data pro
 - **Drill-through**: Detailed views for specific segments
 
 ### 📸 Dashboard Screenshots
-**Full Dashboard View**
-https://screenshots/01_Full_dashboard.PNG
+**Dashboard Full View**
+
+![Dashboard Full View](screenshots/01_Full_dashboard.PNG)
 
 **Salary Analysis**
-https://screenshots/02_salary_analysis.PNG
+
+![Salary Analysis](screenshots/02_salary_analysis.PNG)
+
 Data Engineers command the highest average salary at $137.5k
 
 **Demographic Distribution**
-https://screenshots/03_demographics.PNG
+
+![Demographic Distribution](screenshots/03_demographics.PNG)
+
 Geographic distribution showing US dominance in survey responses
 
 **Satisfaction Metrics**
-https://screenshots/04_satisfaction_metrics.PNG
+
+![Satisfaction Metrics](screenshots/04_satisfaction_metrics.PNG)
+
 Work/Life balance scores highest among satisfaction factors
+
+**Interactive Filters**
+
+![Interactive Filters](screenshots/05_interactive_filters.PNG)
 
 ### 🎯 Business Impact
 This analysis helps:
@@ -133,4 +144,4 @@ Feel free to:
 - 📥 Contribute through Pull Requests
 
 ## Author
-> Excel Dashboard created by **[Dania Farooq](https://www.linkedin.com/in/daniafarooq/)**  
+> Power BI Dashboard created by **[Dania Farooq](https://www.linkedin.com/in/daniafarooq/)**  
