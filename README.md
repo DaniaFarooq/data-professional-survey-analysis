@@ -123,3 +123,14 @@ This analysis helps:
 **Comparative Analysis**: Year-over-year trend analysis
 
 **API Integration**: Automated data ingestion
+
+
+## 📩 Feedback & Collaboration
+
+Feel free to:  
+- ⭐ Star this repo if you find it helpful  
+- 🛠 Suggest improvements via [Issues](https://github.com/DaniaFarooq)  
+- 📥 Contribute through Pull Requests
+
+## Author
+> Excel Dashboard created by **[Dania Farooq](https://www.linkedin.com/in/daniafarooq/)**  
