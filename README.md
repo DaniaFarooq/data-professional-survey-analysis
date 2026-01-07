@@ -1,6 +1,6 @@
 # Data Professional Survey Analysis - Power BI Dashboard
 
-![Dashboard Preview](screenshots/01_Full_dashboard.PNG)
+![Dashboard Preview](screenshots/01_full_dashboard.PNG)
 
 ## 📊 Project Overview
 A comprehensive Power BI dashboard analyzing survey responses from 630+ data professionals worldwide. The dashboard provides insights into salary trends, job satisfaction, career challenges, and demographic patterns in the data industry.
@@ -80,7 +80,7 @@ A comprehensive Power BI dashboard analyzing survey responses from 630+ data pro
 ### 📸 Dashboard Screenshots
 **Dashboard Full View**
 
-![Dashboard Full View](screenshots/01_Full_dashboard.PNG)
+![Dashboard Full View](screenshots/01_full_dashboard.PNG)
 
 **Salary Analysis**
 
