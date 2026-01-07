@@ -35,7 +35,7 @@ A comprehensive Power BI dashboard analyzing survey responses from 630+ data pro
 ## 📈 Key Insights
 
 ### 💰 Salary Analysis
-- **Highest Paying Role**: Data Engineers ($137.5k average)
+- **Highest Paying Role**: Data Scientists ($137.5k average)
 - **Most Common Role**: Data Analysts (46.9% of respondents)
 - **Salary Range**: Majority earn $41k-105k USD
 - **Geographic Variance**: US-based professionals earn 20-30% more on average
@@ -85,8 +85,6 @@ A comprehensive Power BI dashboard analyzing survey responses from 630+ data pro
 **Salary Analysis**
 
 ![Salary Analysis](screenshots/02_salary_analysis.PNG)
-
-Data Engineers command the highest average salary at $137.5k
 
 **Demographic Distribution**
 
