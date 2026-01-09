@@ -12,12 +12,6 @@ A comprehensive Power BI dashboard analyzing survey responses from 630+ data pro
 - Visualize geographic and demographic distributions
 - Provide actionable insights for HR and career development
 
-## 📁 Dataset Information
-- **Source**: Anonymous survey of data professionals (2022)
-- **Records**: 630+ respondents
-- **Geographic Coverage**: 15+ countries
-- **Time Frame**: Single-point survey
-
 ### Key Survey Questions Analyzed:
 1. **Q1**: Current job title
 2. **Q3**: Current yearly salary (USD)
